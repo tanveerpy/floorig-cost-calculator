@@ -10,7 +10,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://tanveerpy.github.io/floorig-cost-calculator'),
+  metadataBase: new URL('https://flooringestimators.com'),
   title: {
     template: "%s | Professional Flooring Estimates",
     default: "Professional Flooring Cost Calculator | 2026 Data-Driven Price Index",
@@ -23,7 +23,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Professional Flooring Cost Calculator | 2026 Index",
     description: "Accurate, real-time flooring estimates based on 2026 market data.",
-    url: 'https://flooringcosts.ai',
+    url: 'https://flooringestimators.com',
     siteName: 'FloorCalc 2026',
     locale: 'en_US',
     type: 'website',
